@@ -2,7 +2,7 @@
 
 import PIL
 from PIL import Image
-
+//change width as per your requirment
 mywidth = 1614
 
 img = Image.open('C:/Users/parth/OneDrive/Documents/IMagecompressor/1.jpg')//imagepath
